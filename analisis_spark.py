@@ -18,7 +18,6 @@ print(f"Registros totales antes de limpieza: {conteo_inicial}")
 print("\n--- 2. PREPARACIÓN Y TRATAMIENTO DE CALIDAD ---")
 df_prep = df_raw.withColumn("marca_temporal", to_timestamp(col("marca_temporal"), "yyyy-MM-dd HH:mm:ss"))
 
-# Limpiar valores nulos o negativos de la tarifa introducidos como anomalía
 df_limpio = df_prep.withColumn(
     "tarifa", 
     when((col("tarifa").isNull()) | (col("tarifa") < 0), None).otherwise(col("tarifa"))
@@ -52,11 +51,12 @@ df_tiempo = df_analisis.groupBy("hora_dia").agg(
 ).orderBy("hora_dia")
 df_tiempo.show()
 
-print("\n--- 4. GENERACIÓN DE VISUALIZACIONES ---")
+print("\n--- 4. GENERACIÓN DE LAS 3 VISUALIZACIONES ---")
 pdf_cat = df_cat.toPandas()
+pdf_tiempo = df_tiempo.toPandas()
 pdf_tarifa = df_analisis.select("tarifa").toPandas()
 
-# Gráfico 1
+# Gráfico 1: Descriptiva (Histograma de Tarifas)
 plt.figure(figsize=(8, 5))
 plt.hist(pdf_tarifa["tarifa"], bins=20, color='skyblue', edgecolor='black')
 plt.title("Distribución de Tarifas de Viajes (Pregunta 1)")
@@ -66,7 +66,7 @@ plt.grid(axis='y', linestyle='--', alpha=0.7)
 plt.savefig("grafico_1_descriptiva.png")
 plt.close()
 
-# Gráfico 2
+# Gráfico 2: Comparación por Categoría (Tipo de Servicio)
 plt.figure(figsize=(8, 5))
 plt.bar(pdf_cat["tipo_servicio"], pdf_cat["tarifa_promedio"], color=['#ff9999','#66b3ff','#99ff99'])
 plt.title("Tarifa Promedio por Tipo de Servicio (Pregunta 2)")
@@ -76,5 +76,15 @@ plt.grid(axis='y', linestyle='--', alpha=0.7)
 plt.savefig("grafico_2_categoria.png")
 plt.close()
 
-print("Gráficos generados y guardados exitosamente como PNG.")
+# Gráfico 3: Evolución Temporal (Viajes por Hora del Día)
+plt.figure(figsize=(8, 5))
+plt.plot(pdf_tiempo["hora_dia"], pdf_tiempo["total_viajes"], marker='o', color='#2b6cb0', linewidth=2)
+plt.title("Evolución de Viajes según Hora del Día (Pregunta 3)")
+plt.xlabel("Hora del Día (0-23)")
+plt.ylabel("Total de Viajes")
+plt.grid(True, linestyle='--', alpha=0.7)
+plt.savefig("grafico_3_temporal.png")
+plt.close()
+
+print("¡Los 3 gráficos (grafico_1, grafico_2 y grafico_3) generados y guardados exitosamente como PNG!")
 spark.stop()
