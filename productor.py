@@ -9,7 +9,7 @@ producer = KafkaProducer(
 )
 
 TOPIC_NAME = 'ridesharing_eventos'
-TOTAL_EVENTOS = 150
+TOTAL_EVENTOS = 5000
 
 print(f"Iniciando envío de {TOTAL_EVENTOS} eventos al tópico '{TOPIC_NAME}'...")
 
