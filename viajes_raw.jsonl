@@ -1,0 +1,150 @@
+{"id_evento": "EVT-00001", "marca_temporal": "2026-11-09 22:46:02", "tipo_servicio": "UberX", "tarifa": 4460, "hora_dia": 22, "distancia_km": 14.39}
+{"id_evento": "EVT-00002", "marca_temporal": "2026-11-09 23:35:05", "tipo_servicio": "UberX", "tarifa": 5522, "hora_dia": 23, "distancia_km": 1.48}
+{"id_evento": "EVT-00003", "marca_temporal": "2026-11-09 19:17:28", "tipo_servicio": "UberX", "tarifa": 7392, "hora_dia": 19, "distancia_km": 6.29}
+{"id_evento": "EVT-00004", "marca_temporal": "2026-11-10 19:41:49", "tipo_servicio": "UberX", "tarifa": 6884, "hora_dia": 19, "distancia_km": 17.07}
+{"id_evento": "EVT-00005", "marca_temporal": "2026-11-09 15:45:12", "tipo_servicio": "VIP", "tarifa": 4121, "hora_dia": 15, "distancia_km": 18.38}
+{"id_evento": "EVT-00006", "marca_temporal": "2026-11-12 10:33:36", "tipo_servicio": "UberX", "tarifa": 4255, "hora_dia": 10, "distancia_km": 6.81}
+{"id_evento": "EVT-00007", "marca_temporal": "2026-11-11 00:57:40", "tipo_servicio": "UberX", "tarifa": 2826, "hora_dia": 0, "distancia_km": 14.83}
+{"id_evento": "EVT-00008", "marca_temporal": "2026-11-09 14:10:54", "tipo_servicio": "UberX", "tarifa": 2558, "hora_dia": 14, "distancia_km": 17.01}
+{"id_evento": "EVT-00009", "marca_temporal": "2026-11-13 02:13:56", "tipo_servicio": "DiDi Express", "tarifa": 3520, "hora_dia": 2, "distancia_km": 15.5}
+{"id_evento": "EVT-00010", "marca_temporal": "2026-11-06 17:58:00", "tipo_servicio": "VIP", "tarifa": 3654, "hora_dia": 17, "distancia_km": 12.9}
+{"id_evento": "EVT-00011", "marca_temporal": "2026-11-12 01:53:00", "tipo_servicio": "VIP", "tarifa": 4599, "hora_dia": 1, "distancia_km": 4.34}
+{"id_evento": "EVT-00012", "marca_temporal": "2026-11-10 22:56:13", "tipo_servicio": "VIP", "tarifa": 6768, "hora_dia": 22, "distancia_km": 19.78}
+{"id_evento": "EVT-00013", "marca_temporal": "2026-11-10 04:08:33", "tipo_servicio": "UberX", "tarifa": 4586, "hora_dia": 4, "distancia_km": 12.05}
+{"id_evento": "EVT-00014", "marca_temporal": "2026-11-10 23:24:07", "tipo_servicio": "DiDi Express", "tarifa": 5866, "hora_dia": 23, "distancia_km": 14.36}
+{"id_evento": "EVT-00015", "marca_temporal": "2026-11-06 22:01:30", "tipo_servicio": "VIP", "tarifa": 6631, "hora_dia": 22, "distancia_km": 2.86}
+{"id_evento": "EVT-00016", "marca_temporal": "2026-11-07 17:02:09", "tipo_servicio": "VIP", "tarifa": 5069, "hora_dia": 17, "distancia_km": 18.73}
+{"id_evento": "EVT-00017", "marca_temporal": "2026-11-11 17:29:39", "tipo_servicio": "VIP", "tarifa": 6782, "hora_dia": 17, "distancia_km": 10.01}
+{"id_evento": "EVT-00018", "marca_temporal": "2026-11-10 13:47:17", "tipo_servicio": "DiDi Express", "tarifa": 3551, "hora_dia": 13, "distancia_km": 13.85}
+{"id_evento": "EVT-00019", "marca_temporal": "2026-11-09 13:35:01", "tipo_servicio": "VIP", "tarifa": 5279, "hora_dia": 13, "distancia_km": 6.58}
+{"id_evento": "EVT-00020", "marca_temporal": "2026-11-10 00:12:37", "tipo_servicio": "UberX", "tarifa": 5269, "hora_dia": 0, "distancia_km": 10.88}
+{"id_evento": "EVT-00021", "marca_temporal": "2026-11-13 04:20:54", "tipo_servicio": "DiDi Express", "tarifa": 4883, "hora_dia": 4, "distancia_km": 4.44}
+{"id_evento": "EVT-00022", "marca_temporal": "2026-11-08 04:13:43", "tipo_servicio": "UberX", "tarifa": 4225, "hora_dia": 4, "distancia_km": 11.88}
+{"id_evento": "EVT-00023", "marca_temporal": "2026-11-08 14:33:44", "tipo_servicio": "UberX", "tarifa": 4031, "hora_dia": 14, "distancia_km": 13.25}
+{"id_evento": "EVT-00024", "marca_temporal": "2026-11-11 21:02:39", "tipo_servicio": "DiDi Express", "tarifa": 5224, "hora_dia": 21, "distancia_km": 16.83}
+{"id_evento": "EVT-00025", "marca_temporal": "2026-11-12 12:14:16", "tipo_servicio": "UberX", "tarifa": 4247, "hora_dia": 12, "distancia_km": 24.15}
+{"id_evento": "EVT-00026", "marca_temporal": "2026-11-08 15:18:04", "tipo_servicio": "DiDi Express", "tarifa": 5234, "hora_dia": 15, "distancia_km": 4.81}
+{"id_evento": "EVT-00027", "marca_temporal": "2026-11-07 07:40:42", "tipo_servicio": "UberX", "tarifa": 4016, "hora_dia": 7, "distancia_km": 9.74}
+{"id_evento": "EVT-00028", "marca_temporal": "2026-11-10 21:33:10", "tipo_servicio": "DiDi Express", "tarifa": 2861, "hora_dia": 21, "distancia_km": 19.51}
+{"id_evento": "EVT-00029", "marca_temporal": "2026-11-08 17:15:55", "tipo_servicio": "UberX", "tarifa": 5389, "hora_dia": 17, "distancia_km": 9.48}
+{"id_evento": "EVT-00030", "marca_temporal": "2026-11-10 19:46:52", "tipo_servicio": "DiDi Express", "tarifa": 6818, "hora_dia": 19, "distancia_km": 14.08}
+{"id_evento": "EVT-00031", "marca_temporal": "2026-11-08 02:03:52", "tipo_servicio": "VIP", "tarifa": 4025, "hora_dia": 2, "distancia_km": 4.56}
+{"id_evento": "EVT-00032", "marca_temporal": "2026-11-07 22:50:17", "tipo_servicio": "VIP", "tarifa": 5300, "hora_dia": 22, "distancia_km": 18.23}
+{"id_evento": "EVT-00033", "marca_temporal": "2026-11-07 04:49:18", "tipo_servicio": "UberX", "tarifa": 5730, "hora_dia": 4, "distancia_km": 3.37}
+{"id_evento": "EVT-00034", "marca_temporal": "2026-11-08 03:14:15", "tipo_servicio": "VIP", "tarifa": 5878, "hora_dia": 3, "distancia_km": 21.28}
+{"id_evento": "EVT-00035", "marca_temporal": "2026-11-11 21:44:32", "tipo_servicio": "VIP", "tarifa": 6407, "hora_dia": 21, "distancia_km": 2.75}
+{"id_evento": "EVT-00036", "marca_temporal": "2026-11-07 04:45:19", "tipo_servicio": "DiDi Express", "tarifa": 3323, "hora_dia": 4, "distancia_km": 11.69}
+{"id_evento": "EVT-00037", "marca_temporal": "2026-11-09 22:30:10", "tipo_servicio": "UberX", "tarifa": 4051, "hora_dia": 22, "distancia_km": 24.58}
+{"id_evento": "EVT-00038", "marca_temporal": "2026-11-06 15:08:11", "tipo_servicio": "UberX", "tarifa": 4366, "hora_dia": 15, "distancia_km": 10.04}
+{"id_evento": "EVT-00039", "marca_temporal": "2026-11-10 08:29:04", "tipo_servicio": "VIP", "tarifa": 8379, "hora_dia": 8, "distancia_km": 3.96}
+{"id_evento": "EVT-00040", "marca_temporal": "2026-11-11 02:42:50", "tipo_servicio": "UberX", "tarifa": 3586, "hora_dia": 2, "distancia_km": 4.35}
+{"id_evento": "EVT-00041", "marca_temporal": "2026-11-08 09:28:38", "tipo_servicio": "UberX", "tarifa": 6032, "hora_dia": 9, "distancia_km": 8.16}
+{"id_evento": "EVT-00042", "marca_temporal": "2026-11-09 20:35:50", "tipo_servicio": "VIP", "tarifa": 7839, "hora_dia": 20, "distancia_km": 21.03}
+{"id_evento": "EVT-00043", "marca_temporal": "2026-11-07 07:18:38", "tipo_servicio": "DiDi Express", "tarifa": 4326, "hora_dia": 7, "distancia_km": 8.61}
+{"id_evento": "EVT-00044", "marca_temporal": "2026-11-10 07:43:49", "tipo_servicio": "UberX", "tarifa": 4465, "hora_dia": 7, "distancia_km": 14.96}
+{"id_evento": "EVT-00045", "marca_temporal": "2026-11-11 01:22:55", "tipo_servicio": "UberX", "tarifa": 4409, "hora_dia": 1, "distancia_km": 2.6}
+{"id_evento": "EVT-00046", "marca_temporal": "2026-11-10 02:29:31", "tipo_servicio": "VIP", "tarifa": 6771, "hora_dia": 2, "distancia_km": 5.71}
+{"id_evento": "EVT-00047", "marca_temporal": "2026-11-08 08:02:17", "tipo_servicio": "VIP", "tarifa": 6670, "hora_dia": 8, "distancia_km": 12.43}
+{"id_evento": "EVT-00048", "marca_temporal": "2026-11-06 22:05:47", "tipo_servicio": "UberX", "tarifa": 5768, "hora_dia": 22, "distancia_km": 21.86}
+{"id_evento": "EVT-00049", "marca_temporal": "2026-11-12 00:40:06", "tipo_servicio": "DiDi Express", "tarifa": 2691, "hora_dia": 0, "distancia_km": 17.95}
+{"id_evento": "EVT-00050", "marca_temporal": "2026-11-11 08:57:28", "tipo_servicio": "VIP", "tarifa": 7144, "hora_dia": 8, "distancia_km": 18.34}
+{"id_evento": "EVT-00051", "marca_temporal": "2026-11-10 20:05:20", "tipo_servicio": "DiDi Express", "tarifa": 4733, "hora_dia": 20, "distancia_km": 9.95}
+{"id_evento": "EVT-00052", "marca_temporal": "2026-11-09 23:33:34", "tipo_servicio": "DiDi Express", "tarifa": 5077, "hora_dia": 23, "distancia_km": 7.75}
+{"id_evento": "EVT-00053", "marca_temporal": "2026-11-13 06:37:21", "tipo_servicio": "DiDi Express", "tarifa": 2534, "hora_dia": 6, "distancia_km": 18.17}
+{"id_evento": "EVT-00054", "marca_temporal": "2026-11-11 00:30:22", "tipo_servicio": "VIP", "tarifa": 5653, "hora_dia": 0, "distancia_km": 5.43}
+{"id_evento": "EVT-00055", "marca_temporal": "2026-11-09 14:11:20", "tipo_servicio": "DiDi Express", "tarifa": 5143, "hora_dia": 14, "distancia_km": 2.18}
+{"id_evento": "EVT-00056", "marca_temporal": "2026-11-09 06:16:31", "tipo_servicio": "UberX", "tarifa": 5474, "hora_dia": 6, "distancia_km": 7.08}
+{"id_evento": "EVT-00057", "marca_temporal": "2026-11-13 13:41:07", "tipo_servicio": "DiDi Express", "tarifa": 2508, "hora_dia": 13, "distancia_km": 10.29}
+{"id_evento": "EVT-00058", "marca_temporal": "2026-11-11 00:37:23", "tipo_servicio": "VIP", "tarifa": 6325, "hora_dia": 0, "distancia_km": 3.61}
+{"id_evento": "EVT-00059", "marca_temporal": "2026-11-11 19:24:47", "tipo_servicio": "VIP", "tarifa": 7544, "hora_dia": 19, "distancia_km": 13.32}
+{"id_evento": "EVT-00060", "marca_temporal": "2026-11-11 22:52:20", "tipo_servicio": "VIP", "tarifa": 4263, "hora_dia": 22, "distancia_km": 21.83}
+{"id_evento": "EVT-00061", "marca_temporal": "2026-11-11 22:42:39", "tipo_servicio": "UberX", "tarifa": 5500, "hora_dia": 22, "distancia_km": 20.28}
+{"id_evento": "EVT-00062", "marca_temporal": "2026-11-09 20:26:28", "tipo_servicio": "UberX", "tarifa": 4589, "hora_dia": 20, "distancia_km": 13.33}
+{"id_evento": "EVT-00063", "marca_temporal": "2026-11-08 04:07:57", "tipo_servicio": "VIP", "tarifa": 6993, "hora_dia": 4, "distancia_km": 19.05}
+{"id_evento": "EVT-00064", "marca_temporal": "2026-11-10 04:08:00", "tipo_servicio": "UberX", "tarifa": 3253, "hora_dia": 4, "distancia_km": 8.27}
+{"id_evento": "EVT-00065", "marca_temporal": "2026-11-07 13:55:14", "tipo_servicio": "UberX", "tarifa": 2960, "hora_dia": 13, "distancia_km": 16.22}
+{"id_evento": "EVT-00066", "marca_temporal": "2026-11-09 06:56:37", "tipo_servicio": "UberX", "tarifa": 3647, "hora_dia": 6, "distancia_km": 10.41}
+{"id_evento": "EVT-00067", "marca_temporal": "2026-11-09 05:19:49", "tipo_servicio": "VIP", "tarifa": 4299, "hora_dia": 5, "distancia_km": 22.51}
+{"id_evento": "EVT-00068", "marca_temporal": "2026-11-11 19:05:10", "tipo_servicio": "DiDi Express", "tarifa": 5371, "hora_dia": 19, "distancia_km": 11.83}
+{"id_evento": "EVT-00069", "marca_temporal": "2026-11-07 17:41:51", "tipo_servicio": "VIP", "tarifa": 5461, "hora_dia": 17, "distancia_km": 8.78}
+{"id_evento": "EVT-00070", "marca_temporal": "2026-11-08 17:49:00", "tipo_servicio": "UberX", "tarifa": 5534, "hora_dia": 17, "distancia_km": 7.38}
+{"id_evento": "EVT-00071", "marca_temporal": "2026-11-11 07:45:07", "tipo_servicio": "VIP", "tarifa": 5922, "hora_dia": 7, "distancia_km": 1.9}
+{"id_evento": "EVT-00072", "marca_temporal": "2026-11-08 19:28:47", "tipo_servicio": "DiDi Express", "tarifa": 4757, "hora_dia": 19, "distancia_km": 7.05}
+{"id_evento": "EVT-00073", "marca_temporal": "2026-11-09 11:44:41", "tipo_servicio": "DiDi Express", "tarifa": 2599, "hora_dia": 11, "distancia_km": 10.5}
+{"id_evento": "EVT-00074", "marca_temporal": "2026-11-13 09:52:08", "tipo_servicio": "VIP", "tarifa": 7414, "hora_dia": 9, "distancia_km": 4.75}
+{"id_evento": "EVT-00075", "marca_temporal": "2026-11-06 15:52:20", "tipo_servicio": "DiDi Express", "tarifa": 4475, "hora_dia": 15, "distancia_km": 17.38}
+{"id_evento": "EVT-00076", "marca_temporal": "2026-11-11 09:00:03", "tipo_servicio": "VIP", "tarifa": 7721, "hora_dia": 9, "distancia_km": 11.98}
+{"id_evento": "EVT-00077", "marca_temporal": "2026-11-10 08:28:22", "tipo_servicio": "DiDi Express", "tarifa": 4760, "hora_dia": 8, "distancia_km": 14.08}
+{"id_evento": "EVT-00078", "marca_temporal": "2026-11-09 18:35:03", "tipo_servicio": "VIP", "tarifa": 6208, "hora_dia": 18, "distancia_km": 15.58}
+{"id_evento": "EVT-00079", "marca_temporal": "2026-11-06 20:00:55", "tipo_servicio": "VIP", "tarifa": 7973, "hora_dia": 20, "distancia_km": 21.25}
+{"id_evento": "EVT-00080", "marca_temporal": "2026-11-09 17:39:08", "tipo_servicio": "UberX", "tarifa": 5778, "hora_dia": 17, "distancia_km": 5.45}
+{"id_evento": "EVT-00081", "marca_temporal": "2026-11-08 02:22:22", "tipo_servicio": "UberX", "tarifa": 3506, "hora_dia": 2, "distancia_km": 4.44}
+{"id_evento": "EVT-00082", "marca_temporal": "2026-11-10 20:14:23", "tipo_servicio": "VIP", "tarifa": 7300, "hora_dia": 20, "distancia_km": 6.84}
+{"id_evento": "EVT-00083", "marca_temporal": "2026-11-12 07:36:50", "tipo_servicio": "UberX", "tarifa": 7029, "hora_dia": 7, "distancia_km": 8.78}
+{"id_evento": "EVT-00084", "marca_temporal": "2026-11-11 19:41:01", "tipo_servicio": "UberX", "tarifa": 6339, "hora_dia": 19, "distancia_km": 24.81}
+{"id_evento": "EVT-00085", "marca_temporal": "2026-11-12 18:34:21", "tipo_servicio": "UberX", "tarifa": 6728, "hora_dia": 18, "distancia_km": 19.09}
+{"id_evento": "EVT-00086", "marca_temporal": "2026-11-09 10:45:12", "tipo_servicio": "UberX", "tarifa": 2959, "hora_dia": 10, "distancia_km": 16.02}
+{"id_evento": "EVT-00087", "marca_temporal": "2026-11-10 04:59:37", "tipo_servicio": "DiDi Express", "tarifa": 5702, "hora_dia": 4, "distancia_km": 9.33}
+{"id_evento": "EVT-00088", "marca_temporal": "2026-11-07 22:21:26", "tipo_servicio": "DiDi Express", "tarifa": 4880, "hora_dia": 22, "distancia_km": 19.91}
+{"id_evento": "EVT-00089", "marca_temporal": "2026-11-09 15:38:38", "tipo_servicio": "UberX", "tarifa": 4004, "hora_dia": 15, "distancia_km": 20.57}
+{"id_evento": "EVT-00090", "marca_temporal": "2026-11-11 17:02:08", "tipo_servicio": "VIP", "tarifa": 4351, "hora_dia": 17, "distancia_km": 10.29}
+{"id_evento": "EVT-00091", "marca_temporal": "2026-11-11 04:40:11", "tipo_servicio": "VIP", "tarifa": 5108, "hora_dia": 4, "distancia_km": 20.54}
+{"id_evento": "EVT-00092", "marca_temporal": "2026-11-07 02:05:01", "tipo_servicio": "UberX", "tarifa": 4445, "hora_dia": 2, "distancia_km": 4.85}
+{"id_evento": "EVT-00093", "marca_temporal": "2026-11-10 09:36:13", "tipo_servicio": "VIP", "tarifa": 6920, "hora_dia": 9, "distancia_km": 1.6}
+{"id_evento": "EVT-00094", "marca_temporal": "2026-11-08 22:47:54", "tipo_servicio": "DiDi Express", "tarifa": 3045, "hora_dia": 22, "distancia_km": 8.21}
+{"id_evento": "EVT-00095", "marca_temporal": "2026-11-09 05:38:57", "tipo_servicio": "VIP", "tarifa": 5246, "hora_dia": 5, "distancia_km": 1.31}
+{"id_evento": "EVT-00096", "marca_temporal": "2026-11-09 23:50:19", "tipo_servicio": "VIP", "tarifa": 4957, "hora_dia": 23, "distancia_km": 23.74}
+{"id_evento": "EVT-00097", "marca_temporal": "2026-11-07 16:23:33", "tipo_servicio": "VIP", "tarifa": 4905, "hora_dia": 16, "distancia_km": 2.73}
+{"id_evento": "EVT-00098", "marca_temporal": "2026-11-09 21:55:28", "tipo_servicio": "DiDi Express", "tarifa": 4064, "hora_dia": 21, "distancia_km": 16.39}
+{"id_evento": "EVT-00099", "marca_temporal": "2026-11-11 22:37:59", "tipo_servicio": "UberX", "tarifa": 3920, "hora_dia": 22, "distancia_km": 8.59}
+{"id_evento": "EVT-00100", "marca_temporal": "2026-11-10 09:39:53", "tipo_servicio": "DiDi Express", "tarifa": 4721, "hora_dia": 9, "distancia_km": 14.47}
+{"id_evento": "EVT-00101", "marca_temporal": "2026-11-10 07:45:00", "tipo_servicio": "VIP", "tarifa": 5581, "hora_dia": 7, "distancia_km": 23.91}
+{"id_evento": "EVT-00102", "marca_temporal": "2026-11-12 01:51:12", "tipo_servicio": "DiDi Express", "tarifa": 4788, "hora_dia": 1, "distancia_km": 3.93}
+{"id_evento": "EVT-00103", "marca_temporal": "2026-11-08 11:08:09", "tipo_servicio": "VIP", "tarifa": 5508, "hora_dia": 11, "distancia_km": 19.66}
+{"id_evento": "EVT-00104", "marca_temporal": "2026-11-12 20:00:05", "tipo_servicio": "UberX", "tarifa": 6903, "hora_dia": 20, "distancia_km": 5.8}
+{"id_evento": "EVT-00105", "marca_temporal": "2026-11-10 16:30:35", "tipo_servicio": "UberX", "tarifa": 3343, "hora_dia": 16, "distancia_km": 12.51}
+{"id_evento": "EVT-00106", "marca_temporal": "2026-11-08 06:28:57", "tipo_servicio": "UberX", "tarifa": 4424, "hora_dia": 6, "distancia_km": 6.17}
+{"id_evento": "EVT-00107", "marca_temporal": "2026-11-11 12:16:53", "tipo_servicio": "DiDi Express", "tarifa": 3592, "hora_dia": 12, "distancia_km": 13.79}
+{"id_evento": "EVT-00108", "marca_temporal": "2026-11-11 23:05:31", "tipo_servicio": "VIP", "tarifa": 4272, "hora_dia": 23, "distancia_km": 23.75}
+{"id_evento": "EVT-00109", "marca_temporal": "2026-11-07 20:17:54", "tipo_servicio": "DiDi Express", "tarifa": 4714, "hora_dia": 20, "distancia_km": 2.47}
+{"id_evento": "EVT-00110", "marca_temporal": "2026-11-11 02:37:40", "tipo_servicio": "UberX", "tarifa": 3066, "hora_dia": 2, "distancia_km": 22.99}
+{"id_evento": "EVT-00111", "marca_temporal": "2026-11-11 02:01:19", "tipo_servicio": "DiDi Express", "tarifa": 2557, "hora_dia": 2, "distancia_km": 18.69}
+{"id_evento": "EVT-00112", "marca_temporal": "2026-11-07 13:37:02", "tipo_servicio": "DiDi Express", "tarifa": 4413, "hora_dia": 13, "distancia_km": 3.63}
+{"id_evento": "EVT-00113", "marca_temporal": "2026-11-11 19:03:30", "tipo_servicio": "VIP", "tarifa": 5774, "hora_dia": 19, "distancia_km": 6.38}
+{"id_evento": "EVT-00114", "marca_temporal": "2026-11-10 16:27:40", "tipo_servicio": "DiDi Express", "tarifa": 4620, "hora_dia": 16, "distancia_km": 24.11}
+{"id_evento": "EVT-00115", "marca_temporal": "2026-11-12 11:18:53", "tipo_servicio": "UberX", "tarifa": 4587, "hora_dia": 11, "distancia_km": 5.34}
+{"id_evento": "EVT-00116", "marca_temporal": "2026-11-08 08:51:00", "tipo_servicio": "DiDi Express", "tarifa": 6426, "hora_dia": 8, "distancia_km": 3.52}
+{"id_evento": "EVT-00117", "marca_temporal": "2026-11-11 19:51:37", "tipo_servicio": "VIP", "tarifa": 7974, "hora_dia": 19, "distancia_km": 10.8}
+{"id_evento": "EVT-00118", "marca_temporal": "2026-11-12 18:44:40", "tipo_servicio": "DiDi Express", "tarifa": 7478, "hora_dia": 18, "distancia_km": 9.74}
+{"id_evento": "EVT-00119", "marca_temporal": "2026-11-11 21:49:45", "tipo_servicio": "DiDi Express", "tarifa": 4551, "hora_dia": 21, "distancia_km": 23.58}
+{"id_evento": "EVT-00120", "marca_temporal": "2026-11-11 10:55:05", "tipo_servicio": "DiDi Express", "tarifa": 3380, "hora_dia": 10, "distancia_km": 21.94}
+{"id_evento": "EVT-00121", "marca_temporal": "2026-11-13 08:10:15", "tipo_servicio": "DiDi Express", "tarifa": 5433, "hora_dia": 8, "distancia_km": 17.2}
+{"id_evento": "EVT-00122", "marca_temporal": "2026-11-07 03:19:53", "tipo_servicio": "VIP", "tarifa": 4424, "hora_dia": 3, "distancia_km": 23.79}
+{"id_evento": "EVT-00123", "marca_temporal": "2026-11-11 10:45:47", "tipo_servicio": "DiDi Express", "tarifa": 5139, "hora_dia": 10, "distancia_km": 10.57}
+{"id_evento": "EVT-00124", "marca_temporal": "2026-11-06 20:25:50", "tipo_servicio": "UberX", "tarifa": 5159, "hora_dia": 20, "distancia_km": 23.54}
+{"id_evento": "EVT-00125", "marca_temporal": "2026-11-10 16:38:13", "tipo_servicio": "VIP", "tarifa": 6446, "hora_dia": 16, "distancia_km": 11.55}
+{"id_evento": "EVT-00126", "marca_temporal": "2026-11-09 03:49:58", "tipo_servicio": "UberX", "tarifa": 5001, "hora_dia": 3, "distancia_km": 22.24}
+{"id_evento": "EVT-00127", "marca_temporal": "2026-11-10 05:39:48", "tipo_servicio": "VIP", "tarifa": 3646, "hora_dia": 5, "distancia_km": 4.54}
+{"id_evento": "EVT-00128", "marca_temporal": "2026-11-09 06:29:39", "tipo_servicio": "VIP", "tarifa": 5044, "hora_dia": 6, "distancia_km": 8.21}
+{"id_evento": "EVT-00129", "marca_temporal": "2026-11-13 02:27:27", "tipo_servicio": "UberX", "tarifa": 4868, "hora_dia": 2, "distancia_km": 18.0}
+{"id_evento": "EVT-00130", "marca_temporal": "2026-11-08 15:35:26", "tipo_servicio": "UberX", "tarifa": 2551, "hora_dia": 15, "distancia_km": 21.31}
+{"id_evento": "EVT-00131", "marca_temporal": "2026-11-12 16:37:33", "tipo_servicio": "UberX", "tarifa": 5885, "hora_dia": 16, "distancia_km": 13.59}
+{"id_evento": "EVT-00132", "marca_temporal": "2026-11-09 14:38:24", "tipo_servicio": "VIP", "tarifa": 6504, "hora_dia": 14, "distancia_km": 8.91}
+{"id_evento": "EVT-00133", "marca_temporal": "2026-11-12 12:16:05", "tipo_servicio": "UberX", "tarifa": 5852, "hora_dia": 12, "distancia_km": 10.91}
+{"id_evento": "EVT-00134", "marca_temporal": "2026-11-10 17:32:45", "tipo_servicio": "UberX", "tarifa": 3210, "hora_dia": 17, "distancia_km": 21.09}
+{"id_evento": "EVT-00135", "marca_temporal": "2026-11-11 22:18:24", "tipo_servicio": "VIP", "tarifa": 6667, "hora_dia": 22, "distancia_km": 6.75}
+{"id_evento": "EVT-00136", "marca_temporal": "2026-11-11 17:20:23", "tipo_servicio": "VIP", "tarifa": 6898, "hora_dia": 17, "distancia_km": 23.88}
+{"id_evento": "EVT-00137", "marca_temporal": "2026-11-08 07:08:46", "tipo_servicio": "DiDi Express", "tarifa": 6962, "hora_dia": 7, "distancia_km": 18.89}
+{"id_evento": "EVT-00138", "marca_temporal": "2026-11-07 18:40:37", "tipo_servicio": "UberX", "tarifa": 7438, "hora_dia": 18, "distancia_km": 7.56}
+{"id_evento": "EVT-00139", "marca_temporal": "2026-11-06 19:16:44", "tipo_servicio": "UberX", "tarifa": 4451, "hora_dia": 19, "distancia_km": 18.75}
+{"id_evento": "EVT-00140", "marca_temporal": "2026-11-10 03:27:45", "tipo_servicio": "VIP", "tarifa": 5561, "hora_dia": 3, "distancia_km": 10.35}
+{"id_evento": "EVT-00141", "marca_temporal": "2026-11-09 13:19:12", "tipo_servicio": "DiDi Express", "tarifa": 2811, "hora_dia": 13, "distancia_km": 8.36}
+{"id_evento": "EVT-00142", "marca_temporal": "2026-11-08 18:08:50", "tipo_servicio": "DiDi Express", "tarifa": 6459, "hora_dia": 18, "distancia_km": 13.17}
+{"id_evento": "EVT-00143", "marca_temporal": "2026-11-11 02:46:54", "tipo_servicio": "DiDi Express", "tarifa": 5298, "hora_dia": 2, "distancia_km": 1.07}
+{"id_evento": "EVT-00144", "marca_temporal": "2026-11-09 13:22:49", "tipo_servicio": "UberX", "tarifa": 4003, "hora_dia": 13, "distancia_km": 9.86}
+{"id_evento": "EVT-00145", "marca_temporal": "2026-11-07 18:16:02", "tipo_servicio": "UberX", "tarifa": 4592, "hora_dia": 18, "distancia_km": 5.76}
+{"id_evento": "EVT-00146", "marca_temporal": "2026-11-13 05:59:44", "tipo_servicio": "UberX", "tarifa": 4879, "hora_dia": 5, "distancia_km": 7.45}
+{"id_evento": "EVT-00147", "marca_temporal": "2026-11-10 21:23:48", "tipo_servicio": "DiDi Express", "tarifa": 3440, "hora_dia": 21, "distancia_km": 16.16}
+{"id_evento": "EVT-00148", "marca_temporal": "2026-11-08 17:40:08", "tipo_servicio": "UberX", "tarifa": 2699, "hora_dia": 17, "distancia_km": 6.13}
+{"id_evento": "EVT-00149", "marca_temporal": "2026-11-11 11:44:59", "tipo_servicio": "DiDi Express", "tarifa": 4813, "hora_dia": 11, "distancia_km": 20.37}
+{"id_evento": "EVT-00150", "marca_temporal": "2026-11-10 04:47:08", "tipo_servicio": "UberX", "tarifa": 5272, "hora_dia": 4, "distancia_km": 4.06}
